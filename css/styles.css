@@ -149,7 +149,7 @@ a:hover {
   color: orange;
 }
 
-@media (max-width: 1000px) and (min-height: 560px){
+@media (max-width: 1000px){
   
   .hidden{
   display: block;
